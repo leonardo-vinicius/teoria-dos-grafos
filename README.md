@@ -2,12 +2,12 @@
 projeto de teoria dos grafos para composição de nota da AB2
 
 # algoritmos implementados:
-em c++:
-        Kruskal;
-        Bellmanford;
-        Dijkstra;
-em c:
-        Prim;
+EM C++:
+        (Kruskal,
+        Bellmanford,
+        Dijkstra,)
+EM C:
+        (Prim)
 
 # Observações:
 
