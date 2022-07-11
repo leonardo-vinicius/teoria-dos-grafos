@@ -1,7 +1,7 @@
-# teoria-dos-grafos
+# Teoria-dos-grafos
 projeto de teoria dos grafos para composição de nota da AB2
 
-# algoritmos implementados:
+# Algoritmos implementados:
 EM C++:
         (Kruskal,
         Bellmanford,
