@@ -1,7 +1,7 @@
-# Teoria-dos-grafos
+# Teoria-dos-grafos 🔄
 projeto de teoria dos grafos para composição de nota da AB2
 
-# Algoritmos implementados:
+##Algoritmos implementados:
 EM C++:
         (Kruskal,
         Bellmanford,
@@ -9,7 +9,6 @@ EM C++:
 EM C:
         (Prim)
 
-# Observações:
+##Observações:
 
 Há um makefile só para Prim e um makefile para os outros 3 separados;
-o Prim tem a saída das respostas em um .txt chamado "Saida".
