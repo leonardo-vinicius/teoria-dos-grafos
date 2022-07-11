@@ -12,4 +12,4 @@ EM C:
 # Observações:
 
 Há um makefile só para Prim e um makefile para os outros 3 separados;
-Apenas Prim tem opções de programa.
+o Prim tem a saída das respostas em um .txt chamado "Saida".
